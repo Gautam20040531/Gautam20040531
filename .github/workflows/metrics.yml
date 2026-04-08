@@ -24,7 +24,7 @@ jobs:
           plugin_isocalendar_main: yes
           
           # Coding Habits
-          plugin_habits: yes
+          plugin_habits: no
           plugin_habits_from: 200
           plugin_habits_days: 14
           plugin_habits_facts: yes
