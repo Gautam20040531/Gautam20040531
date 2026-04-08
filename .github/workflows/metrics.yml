@@ -19,16 +19,8 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
           
-          # Isometric Calendar
+          # Isometric Calendar (3D Graph - Fixed)
           plugin_isocalendar: yes
-          plugin_isocalendar_main: yes
-          
-         # Coding Habits (Lightweight)
-          plugin_habits: yes
-          plugin_habits_from: 15
-          plugin_habits_days: 14
-          plugin_habits_facts: no
-          plugin_habits_charts: yes
           
           # Top Languages
           plugin_languages: yes
