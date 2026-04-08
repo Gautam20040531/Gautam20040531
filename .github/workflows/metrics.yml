@@ -23,12 +23,11 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_main: yes
           
-          # Coding Habits
-         # Coding Habits
+         # Coding Habits (Lightweight)
           plugin_habits: yes
-          plugin_habits_from: 50
-          plugin_habits_days: 30
-          plugin_habits_facts: yes
+          plugin_habits_from: 15
+          plugin_habits_days: 14
+          plugin_habits_facts: no
           plugin_habits_charts: yes
           
           # Top Languages
