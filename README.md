@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Prakhar-Tiwari/prakhartiwar0/main/assets/banner.jpg" alt="Profile Banner" width="100%" />
+  <img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" alt="Profile Banner" width="100%" height="250"/>
 
   # Namaste 🙏, I'm Gautam Pal
   
@@ -17,7 +17,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-252B48?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-  <a href="mailto:gp2285173@gmail.com"><img src="https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"/></a>
+  <a href="mailto:YOUR_EMAIL_ADDRESS"><img src="https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"/></a>
 </p>
 
 ---
@@ -42,19 +42,11 @@
   </a>
 </p>
 
-### 📊 GitHub Stats
+<br/>
+
+### 📊 GitHub Stats & Activity
 <p align="center">
   <img src="https://raw.githubusercontent.com/Gautam20040531/Gautam20040531/main/github-metrics.svg" alt="GitHub Metrics" width="100%">
-</p>
-
-### 🔥 GitHub Streak
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=Gautam20040531&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
-
-### 🏆 Top Languages
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gautam20040531&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
 
 <br/>
