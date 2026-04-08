@@ -38,11 +38,9 @@
 ### 💻 Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,flutter,cpp,python,linux,arduino,git,github,vscode,figma,firebase,mysql&perline=10" alt="Tech Stack"/>
+    <img src="https://skillicons.dev/icons?i=angular,html,css,tailwind,aws,blender,c,cpp,django,docker,elixir,figma,firebase,flutter,git,gcp,java,js,kotlin,kubernetes,linux,mongodb,mysql,nginx,nodejs,ps,postman,python,rails,react,ts,unity,unreal,webpack&perline=15" alt="Tech Stack"/>
   </a>
 </p>
-
-<br/>
 
 ### 📊 GitHub Stats
 <p align="left">
