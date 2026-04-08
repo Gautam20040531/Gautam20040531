@@ -43,8 +43,8 @@
 </p>
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gautam20040531&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Gautam20040531/Gautam20040531/main/github-metrics.svg" alt="GitHub Metrics" width="100%">
 </p>
 
 ### 🔥 GitHub Streak
