@@ -1,18 +1,30 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" alt="Profile Banner" width="100%" height="250"/>
 
-  <h1>Namaste 🙏, I'm Gautam Pal</h1>
+  # Namaste 🙏, I'm Gautam Pal
   
-  <h3>👨‍💻 CS Engineering Student | Web & App Developer | Cybersecurity Enthusiast </h3>
+  ### 👨‍💻 CS Engineering Student | Web & App Developer | Cybersecurity Enthusiast 
 
   <a href="https://github.com/Gautam20040531">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2ecc71&center=true&vCenter=true&width=435&lines=Building+Websites+%26+UIs;Developing+Apps+with+Flutter;Exploring+Ethical+Hacking;Tinkering+with+ESP32+%26+STM32" alt="Typing SVG" />
   </a>
+
+  <p>Technology has always fascinated me, and I'm personed myself in the captivating world of computer science, specifically focused on web & app development and cybersecurity. Building robust applications that solve real-world problems is my core objective. As a curious person, I'm always looking to innovate and create something that makes many lives lives better.</p>
 </div>
 
 <br/>
 
-<h3>🔗 Connect with me</h3>
+### 🌱 Present Status
+- 🔭 I’m currently working on: Scaling a full-stack e-commerce UI/UX project.
+- 🌱 I’m currently learning: Advanced state management in Flutter and advanced penetration testing techniques.
+- 👯 I’m looking to collaborate on: Open-source cybersecurity tools or Flutter application packages.
+- 💬 Ask me about: Flutter development, Web application security (OWASP Top 10), or building custom PCs.
+- 📫 How to reach me: gp2285173@gmail.com or via LinkedIn below.
+- ⚡ Fun fact: I build homemade hardware tools, including micro-controller based gadgets!
+
+<br/>
+
+### 🔗 Connect With Me
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-252B48?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/gautam-pal-a12a85278/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -22,66 +34,40 @@
 
 ---
 
-<table width="100%" border="0">
-  <tr>
-    <td width="20%" valign="top">
-      <br><br>
-      <h4>Technology Stack</h4>
-      <p align="left">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,flutter" alt="Tech Icons"/>
-        </a>
-      </p>
-      <br><br>
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding GIF" width="200" />
-      <br><br>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjcxNmFiZmUyZDJkYTlmZTNkNzM4NjE4NDZlYjcyZjUyNjk0ZDAxYiZlcD12MV9pbnRlcm5hbF9naWZz+2L0E/giphy.gif" alt="Decorative Anime GIF" width="200" />
-    </td>
-    
-    <td width="55%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gautam20040531&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-      <br><br>
-      <img src="https://github.com/Gautam20040531/Gautam20040531/blob/main/github-metrics.svg?raw=true" alt="Detailed WakaTime Charts Placeholder" />
-    </td>
+<div align="right">
+  <img align="right" alt="Coding GIF" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <img align="right" alt="Globe" width="150" src="https://github.com/gautamkrishnar/gautamkrishnar/blob/master/assets/earth.gif?raw=true" style="margin-right: 20px;">
+</div>
 
-    <td width="25%" valign="top">
-      <img src="https://raw.githubusercontent.com/Prakhar-Tiwari/prakhartiwar0/main/assets/island.gif" alt="Project Island" width="200" />
-      <br><br>
-      <img src="https://github-readme-stats.vercel.app/api?username=Gautam20040531&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Detailed GitHub Stats" />
-      <br><br>
-      <img src="https://streak-stats.demolab.com?user=Gautam20040531&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-      <br><br>
-      <h4>Recent YouTube Videos</h4>
-      <ul>
-        <li>[Setup required] Your latest videos list will appear here.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<h3>🚀 About Me</h3>
-<ul>
-  <li>🎓 I'm currently in my 4th semester of Diploma in Computer Science & Engineering.</li>
-  <li>💻 I love building web projects like e-commerce sites and online bookstores.</li>
-  <li>📱 I build cross-platform applications using **Flutter**.</li>
-  <li>🔒 Deeply interested in Cybersecurity and Ethical Hacking.</li>
-  <li>⚙️ In my free time, I tinker with hardware (homemade Flipper Zero, ESP32, STM32) and build custom PCs.</li>
-</ul>
+### 🚀 About Me
+- 🎓 I'm currently in my 4th semester of Diploma in Computer Science & Engineering.
+- 💻 I love building web projects like e-commerce sites and online bookstores.
+- 📱 I build cross-platform applications using **Flutter**.
+- 🔒 Deeply interested in Cybersecurity and Ethical Hacking.
+- ⚙️ In my free time, I tinker with hardware (homemade Flipper Zero, ESP32, STM32) and build custom PCs.
 
 <br/>
 
-<h3>💻 Expanded Technology Stack</h3>
+### 💻 Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,html,css,tailwind,aws,blender,c,cpp,django,docker,elixir,figma,firebase,flutter,git,gcp,java,js,kotlin,kubernetes,linux,mongodb,mysql,nginx,nodejs,ps,postman,python,rails,react,ts,unity,unreal,webpack&perline=15" alt="Expanded Tech Stack"/>
+    <img src="https://skillicons.dev/icons?i=angular,html,css,tailwind,aws,blender,c,cpp,django,docker,elixir,figma,firebase,flutter,git,gcp,java,js,kotlin,kubernetes,linux,mongodb,mysql,nginx,nodejs,ps,postman,python,rails,react,ts,unity,unreal,webpack&perline=15" alt="Tech Stack"/>
   </a>
 </p>
 
-<br><br><br>
+<br/>
 
-<h3>🔥 Projects & Open Source Contributions</h3>
+### 📊 Coding habits and recent activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Gautam20040531/Gautam20040531/main/github-metrics.svg" alt="GitHub Metrics" width="100%">
+</p>
+
+<div align="right">
+  <img align="right" alt="Floating Island" width="200" src="https://github.com/Prakhar-Tiwari/prakhartiwar0/blob/main/assets/island.gif?raw=true">
+</div>
+
+### 🔥 Projects & Open Source Contributions
 <details>
   <summary><b>💻 Web & App Development Projects</b></summary>
   <ul>
@@ -100,7 +86,7 @@
 
 <br/>
 
-<h3>🎧 My Down Time</h3>
+### 🎧 My Down Time
 <p align="left">
   <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
   <img src="https://img.shields.io/badge/Netflix-E50914?&style=for-the-badge&logo=netflix&logoColor=white" alt="Netflix" />
